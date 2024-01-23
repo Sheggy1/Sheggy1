@@ -1,7 +1,7 @@
 # Hi there👋
 
 # 💫 About Me:
-🔭 I love JavaScript. <br>🤝 I want to join some cool project, where i can improve myself and help team with their goals!<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about anything you need<br>⚡ Fun fact : I love play Chess. My favorite TV-series: BreakingBad
+🔭 I love JavaScript. <br>🌱 I’m currently learning Next.JS<br>💬 Ask me about anything you need<br>⚡ Fun fact : I love play Chess. My favorite TV-series: BreakingBad
 
 
 [![codewars](https://www.codewars.com/users/Sheggybtw/badges/large)](https://www.codewars.com/users/Sheggybtw)   
